@@ -2,17 +2,18 @@
 
 ### Hi, I'm Hoang 👋
 
-**Security engineer. I work on DevSecOps and cloud security, and I'm learning AI security.**
+**Security engineer. I work on cloud security and DevSecOps, and I'm learning AI security.**
 Ho Chi Minh City, Vietnam
 
-I have 8+ years in cybersecurity and 10+ years in IT, working on infrastructure, cloud and software delivery for banks, fintech and tech companies. I like security that fits into the way teams already work: checks that run in the pipeline, infrastructure written as code, and access that is easy to track.
+I have 8+ years in cybersecurity and 10+ years in IT, working on infrastructure, cloud and software delivery for banks, fintech and tech companies. I like security that fits into the way teams already work: checks that run in the pipeline, infrastructure as code, a trusted software supply chain, and access that is easy to track.
 
 #### What I work on
 
-- **DevSecOps:** security checks inside CI/CD (GitLab CI, Jenkins, GitHub Actions) and GitOps with Argo CD
-- **Cloud security:** AWS accounts, access and secrets, all set up with Terraform
-- **Containers:** Docker, Kubernetes, EKS and ECS, and safe base images
-- **Security operations:** SIEM, vulnerability management with DefectDojo, and secure remote access
+- **Security architecture:** secure designs for cloud platforms and the apps that run on them
+- **Cloud security:** identity and access, secrets, data protection, and secure infrastructure as code
+- **DevSecOps and AppSec:** security checks in CI/CD, GitOps, and a trusted software supply chain
+- **Container security:** hardened base images and safe workloads on container platforms
+- **Security operations:** log monitoring, vulnerability management, and secure remote access
 - **AI security:** how AI apps and agents get attacked, and how to protect them (learning in public)
 
 #### 🚧 Coming soon

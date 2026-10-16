@@ -16,6 +16,12 @@ I have 8+ years in cybersecurity and 10+ years in IT, working on infrastructure,
 - **Security operations:** log monitoring, vulnerability management, and secure remote access
 - **AI security:** how AI apps and agents get attacked, and how to protect them (learning in public)
 
+#### 📦 Projects
+
+| Topic | Project | What it is |
+|---|---|---|
+| DevSecOps | [argocd-gitops](https://github.com/hoangbeard/argocd-gitops) | An Argo CD setup using the app-of-apps pattern. Git manages everything, including Argo CD itself |
+
 #### 🚧 Coming soon
 
 I'm turning years of notes, labs and tools into open repositories. Each one goes public once it is cleaned up and documented.
@@ -23,7 +29,6 @@ I'm turning years of notes, labs and tools into open repositories. Each one goes
 | Topic | Project | What it is |
 |---|---|---|
 | DevSecOps | `devsecops-pipelines` | Ready-to-use security steps for CI/CD pipelines |
-| DevSecOps | `argocd-gitops` | An Argo CD setup, from first install to daily operations |
 | DevSecOps | `secure-base-images` | Hardened, scanned and signed container images |
 | Courses | `devsecops-course` | A hands-on DevSecOps course with labs |
 | Courses | `ai-security-course` | A hands-on AI security course with labs |

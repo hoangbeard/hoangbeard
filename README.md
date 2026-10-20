@@ -1,4 +1,4 @@
-<img src="https://hoangbeard.github.io/favicon.svg" width="72" align="right" alt="HoangBeard logo" />
+<img src="assets/logo.svg" width="80" align="right" alt="HoangBeard logo: a T-rex with a handlebar mustache" />
 
 ### Hi, I'm Hoang 👋
 

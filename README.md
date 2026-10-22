@@ -22,6 +22,7 @@ I have 8+ years in cybersecurity and 10+ years in IT, working on infrastructure,
 |---|---|---|
 | DevSecOps | [argocd-gitops](https://github.com/hoangbeard/argocd-gitops) | An Argo CD setup using the app-of-apps pattern. Git manages everything, including Argo CD itself |
 | Tools | [awsce](https://github.com/hoangbeard/awsce) | See where your AWS money goes and where to save, from the command line. `pipx install awsce` |
+| Tools | [career-intelligence](https://github.com/hoangbeard/career-intelligence) | AI skills for Claude Code, Codex and Cursor that help you review job posts, compare offers and tailor your CV |
 
 #### 🚧 Coming soon
 
